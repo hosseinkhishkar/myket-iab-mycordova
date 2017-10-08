@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class InAppBillingPlugin extends CordovaPlugin {
-    private static final String BASE64_ENCODED_PUBLIC_KEY = "MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgO5nhyLTAyKni6HbLPe6brwgoUXQs7G8ThA17f0DzB6PlWq+xv8ZPMgj/7h3HaVu2boCXBOTpmLbLZdMORpXywl62aJczJMHmHcy4cEqZaMD8YV/wsNF+yBUuMawACWTWW3bQhD8PwSomTXkOSAET7o1n7Q7mjtgZii9DXYougIvAgMBAAE=";
+    private static final String BASE64_ENCODED_PUBLIC_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCW1E6kF2gt22bqBiJbLrzvGY9CwMZHJ5usz9RR9+rWkAuVLyI+tAbtvLUhDZlkm+YxUJ1+B5i2h3k/zt6R3Q1rCK+PaIf1x0gL1ZAK5dzQC48AK8YG4O2heLGHwCJzJs2DkdKQYTlvA+X4OGop6dirsF3D/iEC1X1tT3u6q7UVgQIDAQAB";
 
     private final Boolean ENABLE_DEBUG_LOGGING = true;
     public static final int RC_REQUEST = 10001; // (arbitrary) request code for the purchase flow
