@@ -1,5 +1,9 @@
 In app billing documentation
 ===================================
+This is a person. Please do not use it.
+This is for my projects
+(لطفا استفاده نکنید. جهت استفاده شخصی  تغییر یافته است.)
+===================================
 Requirements
 -------------
 Phonegap 3.0, Android 2.2.1+
